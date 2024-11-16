@@ -1,0 +1,3 @@
+# Tic-Tac-Toe-Game-with-Python
+
+This project implements the classic Tic-Tac-Toe game where two players take turns marking spaces on a 3x3 grid, trying to align three of their marks in a row, column, or diagonal to win. The game handles player input, alternating between "X" and "O," and checks for win conditions or a tie. If a player attempts to place a mark in an already occupied space, the game prompts them to try again. It offers a clean, text-based interface and ensures a fun, interactive gaming experience while demonstrating basic Python skills such as input handling, condition checking, and loops. You can also play with AI.
